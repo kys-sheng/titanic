@@ -1,1 +1,10 @@
 # titanic
+Problem: Predict who survive in the titanic tragedy based on their data such as Age, Gender, etc.
+
+
+My attempt on the titanic problem from Kaggle. Please refer to the following website for more details.
+https://www.kaggle.com/competitions/titanic/overview
+
+This work have minimal/occaasional reference from:
+https://www.kaggle.com/code/startupsci/titanic-data-science-solutions
+
