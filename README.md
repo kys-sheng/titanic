@@ -11,3 +11,4 @@ https://www.kaggle.com/code/startupsci/titanic-data-science-solutions
 Few things to be improved:
 1. Use prediction to fill NaN values instead of filling with 0 or -1
 2. Group Age in to bins (kids,teen, adult, senior)
+3. Get better prediction (Overfitting still seems to be the problem)
